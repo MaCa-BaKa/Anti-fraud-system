@@ -1,5 +1,7 @@
 # 36-校园反诈系统(小程序)
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 ### 技术栈和环境:
 
 基于 B/S 架构 SpringBoot+MySQL+Vue+elementui+用户端Uniapp
@@ -145,6 +147,4 @@
 
 
 
-
-
-绿泡泡MaKaBaca0
+[文档地址](http://wechat.zjrcsy.cn/)
